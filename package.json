@@ -1,0 +1,13 @@
+{
+  "name": "eslint-plugin-mirego",
+  "version": "0.0.1",
+  "description": "The linting rules used at Mirego",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "license": "BSD-3-Clause",
+  "repository": "https://github.com/mirego/eslint-plugin-mirego",
+  "main": "lib/index.js"
+}
