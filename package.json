@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-mirego",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The linting rules used at Mirego",
   "keywords": [
     "eslint",
